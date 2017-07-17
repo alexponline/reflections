@@ -1,0 +1,29 @@
+Version Control Lesson 1 Reflections 
+
+1) How did viewing a diff between two versions of a file help you spot the bug? 
+
+It was helpful because it eliminated text that was not changed between the two versions. 
+
+(2) How could having easy access to the entire history of a file make you a more efficient programmer in the long term? 
+
+If you make a mistake, you will be able to return to an earlier version of the document.
+
+(3) What do you think are the pros and cons of manually choosing when to commit, like you do in Git, vs having versions automatically saved, like Google Docs does? 
+
+Manually choosing to commit allows you to make the commits more logical.  On the other hand, if you are forgetful, you may neglect to commit often enough. 
+
+(4) Why do you think some version control systems, like Git, allow saving multiples files in one commit, while others, like Google Docs, treat each file separately? 
+
+Files for certain systems are typically interrelated, whereas for others they are typically not related. 
+
+(5) How can you use the commands git log and git diff to view the history of files?
+
+By typing in the appropriate instructions in terminal and scrolling through.
+
+(6) How might using version control make you more confident to make changes that could break something? 
+
+You will be able easily to return to the previous logical step. 
+
+(7) Now that you have your workspace set up, what do you want to try using Git for? 
+
+Programming.
