@@ -1,0 +1,7 @@
+What happens when you initialize a repository?  Why do you need to do it?
+
+Git begins categorizing the files in the directory and creates an empty repository.  This is necessary so you can add files to the repository.
+
+How is the staging area different from the working directory and the repository?  What value do you think it offers?
+
+The staging area is an intermediate step.  It allows you to group files together before adding them to the repository.
